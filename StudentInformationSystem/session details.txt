@@ -1,0 +1,14 @@
+log
+0 - new entry
+1 - logged in
+2 - logged out
+4 - wrong username or password
+user :logged in name
+sign
+0- new
+1-success
+2-failure
+
+other:
+1-bio update success
+2-bio update failure

@@ -1,0 +1,36 @@
+<?xml version="1.0"?><svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient y2="0.154336" y1="1.1441" xlink:href="#linearGradient6506" x2="0.566583" x1="0.577235" id="linearGradient7452"/>
+  <linearGradient id="linearGradient6688">
+   <stop stop-color="#0f6900" offset="0" id="stop6690"/>
+   <stop stop-color="#a3ff87" offset="1" id="stop6692"/>
+  </linearGradient>
+  <linearGradient y2="0.998411" y1="0.046358" xlink:href="#linearGradient6688" x2="0.408296" x1="0.418947" id="linearGradient7450"/>
+  <linearGradient y2="0.846351" y1="0.057496" xlink:href="#linearGradient5756" x2="0.609143" x1="0.532859" id="linearGradient7448"/>
+  <linearGradient y2="1" y1="0.019227" xlink:href="#linearGradient5742" x2="0.500488" x1="0.496181" id="linearGradient7446"/>
+  <linearGradient id="linearGradient6506">
+   <stop stop-color="#ffffff" stop-opacity="0" offset="0" id="stop6508"/>
+   <stop stop-color="#ffffff" stop-opacity="0.87451" offset="1" id="stop6510"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5756">
+   <stop stop-color="#828282" offset="0" id="stop5758"/>
+   <stop stop-color="#929292" stop-opacity="0.352941" offset="1" id="stop5760"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5742">
+   <stop stop-color="#adadad" offset="0" id="stop5744"/>
+   <stop stop-color="#f0f0f0" offset="1" id="stop5746"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g transform="matrix(31.25, 0, 0, 31.25, -700, -1400)" id="g9477">
+    <path fill="url(#linearGradient7446)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path7424" d="m23.999998,45.600002c0,0.441601 -0.3584,0.799999 -0.799999,0.799999c-0.441601,0 -0.800001,-0.358398 -0.800001,-0.799999c0,-0.441601 0.3584,-0.799999 0.800001,-0.799999c0.441599,0 0.799999,0.358398 0.799999,0.799999z"/>
+    <path fill="url(#linearGradient7448)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path7426" d="m23.84553,45.599831c0,0.35638 -0.289236,0.645618 -0.645618,0.645618c-0.356382,0 -0.645618,-0.289238 -0.645618,-0.645618c0,-0.356373 0.289236,-0.645607 0.645618,-0.645607c0.356382,0 0.645618,0.289234 0.645618,0.645607z"/>
+    <path fill="url(#linearGradient7450)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path7428" d="m23.777985,45.599995c0,0.31905 -0.258936,0.577984 -0.577982,0.577984c-0.31905,0 -0.577986,-0.258934 -0.577986,-0.577984c0,-0.319038 0.258936,-0.577976 0.577986,-0.577976c0.319046,0 0.577982,0.258938 0.577982,0.577976z"/>
+    <path fill="url(#linearGradient7452)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path7430" d="m23.660412,45.407246c0,0.196857 -0.206598,0.356628 -0.461157,0.356628c-0.25456,0 -0.461159,-0.159771 -0.461159,-0.356628c0,-0.196854 0.206598,-0.356625 0.461159,-0.356625c0.254559,0 0.461157,0.159771 0.461157,0.356625z"/>
+   </g>
+  </g>
+  <text xml:space="preserve" text-anchor="middle" font-family="Arial" font-size="9" id="svg_1" y="28" x="25" stroke-width="0" stroke="#000000" fill="#000000">Login</text>
+ </g>
+</svg>
